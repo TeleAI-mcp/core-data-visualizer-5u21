@@ -1,2 +1,3 @@
-# core-data-visualizer-5u21
+# Core Data Visualizer 5U21
+
 A data visualization tool for modern development workflows.
